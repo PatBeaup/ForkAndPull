@@ -1,13 +1,18 @@
 # ForkAndPull
 
 ## Fonctionnalité 1
-[Lien](Fonctionnalite1.md)
+[Fonctionnalité 1](Fonctionnalite1.md)
 
 ## Fonctionnalité 1.5
 Pas de lien pour l'instant
 
 ## Fonctionnalité 2
-[Lien](Fonctionnalite2.md)
+[Fonctionnalité 2](Fonctionnalite2.md)
 
+<<<<<<< HEAD
+## Fonctionnalité 4
+[Fonctionnalité 4](Fonctionnalite4.md)
+=======
 ## Fonctionnalité 3
 Pas de lien pour l'instant
+>>>>>>> 1db0e7222de6f15bc7acd3b09d269755fc676cd8
